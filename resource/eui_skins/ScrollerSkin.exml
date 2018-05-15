@@ -1,0 +1,4 @@
+<e:Skin xmlns:e="http://ns.egret.com/eui" class="skins.ScrollerSkin" minWidth="20" minHeight="20">
+<e:HScrollBar id="horizontalScrollBar" width="100%" bottom="0"/>
+<e:VScrollBar id="verticalScrollBar" height="100%" right="0"/>
+</e:Skin>

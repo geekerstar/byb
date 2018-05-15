@@ -1,0 +1,4 @@
+<e:Skin xmlns:e="http://ns.egret.com/eui" class="skins.VSliderSkin" minWidth="25" minHeight="30">
+<e:Image id="track" source="track_png" scale9Grid="1,1,4,4" width="7" height="100%" horizontalCenter="0"/>
+<e:Image id="thumb" source="thumb_png" horizontalCenter="0"/>
+</e:Skin>
